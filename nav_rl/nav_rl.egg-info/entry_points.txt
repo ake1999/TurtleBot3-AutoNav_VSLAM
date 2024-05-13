@@ -1,0 +1,3 @@
+[console_scripts]
+rl_node = nav_rl.rl_node:main
+
