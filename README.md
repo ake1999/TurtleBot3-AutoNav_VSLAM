@@ -53,14 +53,14 @@ This project delves into the integration of Reinforcement Learning (RL) with Vis
    ![3D Map](images/point_cloud_map.png)
 
 6. **Polar Radar Visualization**
-  This visualization represents the environmental data captured by the robot’s sensors, illustrating the input of RL algorithms made in real-time.
+  This visualization shows the data captured by the robot's sensors in real-time. This data is crucial for the robot's RL algorithm, which uses it to make intelligent decisions and navigate the environment safely.
   ![Polar Radar](images/polar.png)
 
 7. **Training Process Visualization**
-  The following chart depicts the training process of the RL model, showing the progression of learning and the improvement in rewards over time.
   ![Training Process](images/training_process.png)
 
 8. **TD3 Learning Curves:**
+   The following chart depicts the training process of the RL model, showing the progression of learning and the improvement in rewards over time.
    ![TD3 Learning Curves](images/Result_2.png)
 
 ### Conclusions and Future Directions
